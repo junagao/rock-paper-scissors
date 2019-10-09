@@ -6,7 +6,7 @@ This is my custom version of a Rock Paper Scissors Game built with JavaScript, H
 
 ## 👀 Preview
 
-![rock-paper-scissor-gif](./assets/previw/rock-paper-scissor.gif)
+![rock-paper-scissor-gif](./assets/preview/rock-paper-scissor.gif)
 
 
 
